@@ -1,0 +1,6 @@
+body {
+    background-color: black;
+    background-image: var(--image-url);
+    background-repeat: repeat;
+    color: white;
+}
